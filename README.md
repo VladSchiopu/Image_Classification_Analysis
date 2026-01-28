@@ -1,2 +1,3 @@
 # Image_Classification_Analysis
-I analysed the performance differences between MLP and CNN on 2 different datasets.
+
+A comparative study on performance focusing on the differences between Multi-Layer Perceptrons (MLP) and Convolutional Neural Networks (CNN). The project explores the impact of Data Augmentation, Batch Normalization, and Transfer Learning across two distinct datasets. For more details read the attached PDF
